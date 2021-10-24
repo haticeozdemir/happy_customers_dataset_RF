@@ -1,4 +1,4 @@
-# BSdzxwn7iJ16OwcA
+
 
 The algorithm I use for the dataset is the Random Forest algorithm. The random forest algorithm consists of many decision trees and determines the result based on the predictions of the decision trees.
 
